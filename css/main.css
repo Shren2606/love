@@ -73,9 +73,9 @@ canvas {
   position: absolute;
   left: 50%;
   top: 60%;
-  transform: translate(-50%, -50%);
-  width: 420px;
-  height: 420px;
+  transform: translate(-50%, -45%);
+  width: 450px;
+  height: 450px;
 }
 
 #pinkboard {
