@@ -12,6 +12,7 @@ const canvas = c1.context;
 // $("body").append(tela);
 $("body").append(c1.canvas);
 
+
 class Particle1 {
   constructor(canvas) {
     this.random = Math.random();
